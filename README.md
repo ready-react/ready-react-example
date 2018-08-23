@@ -15,7 +15,7 @@ This one is only to use like example.
 
 ## Usage
 
-1 - Get download [here.]()
+1 - Get download [here.](https://github.com/ready-react/ready-react-example/archive/master.zip)
 
 2 - Copy the folder `/src/ready-react-example` into your project `/src/components`.
 
