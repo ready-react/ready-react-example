@@ -15,6 +15,9 @@ This one is only to use like example.
 
 ## See this working
 
+Get download [here.](https://github.com/ready-react/ready-react-example/archive/master.zip), after extract:
+
+    cd ready-react-example
     npm install
     npm start
 
@@ -27,4 +30,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 2 - Copy the folder `/src/ready-react-example` into your project `/src/components`.
 
-3 - Install the [dependencies](#dependencies).
+3 - Install the [dependencies](#dependencies):
+
+    cd ready-react-example
+    npm install
